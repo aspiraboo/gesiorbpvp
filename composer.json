@@ -1,0 +1,11 @@
+{
+	"name": "Gesior",
+	"description": "Gesior with composer",    
+    "require": {
+        "google/recaptcha": "^1.2",
+        "nubs/random-name-generator": "^2.1",
+        "stefangabos/zebra_pagination": "^2.3",
+        "mercadopago/sdk": "0.5.2",
+		"paygol/php-sdk": "^1.0"
+    }
+}
